@@ -1,12 +1,7 @@
-## Hi there 👋
+![welcome](https://github.com/gitcommunity/.github/assets/101352977/92def14f-b740-4caf-a867-743da56a0fca)
+## Get Involved
+Today, open communities create amazing software together. If you want to start your journey in Open Source, see the repositories below marked "good first issue".
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Join Rodukov's Community](https://github.com/gitcommunity/joinus)
+* [Make Your First Contribution(/goodfirstissue)](https://github.com/gitcommunity/goodfirstissue)
+* [MathFramework - the community mathematic framework](https://github.com/rodukov/MathFramework)
