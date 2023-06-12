@@ -2,6 +2,6 @@
 ## Get Involved
 Today, open communities create amazing software together. If you want to start your journey in Open Source, see the repositories below marked "good first issue".
 
-* [Join Rodukov's Community](https://github.com/gitcommunity/joinus)
+* [Join Rodukov's Community](https://github.com/gitcommunity/join)
 * [Make Your First Contribution(/goodfirstissue)](https://github.com/gitcommunity/goodfirstissue)
 * [MathFramework - the community mathematic framework](https://github.com/rodukov/MathFramework)
